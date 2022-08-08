@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+  border: white 2px solid;
+  padding-top: 2.5%;
+}
+
+.container {
+  height: 100vh;
+  padding: 2%;
+
+}
+.row{    height: 100%;}
+.row1{  background-color: #adff2f;}
+.row2{background-color: aqua;}
+.row3{background-color: rosybrown;}
+.row4{background-color: yellow;}
+.row5{background-color: orange;}
+.row6{background-color: blueviolet;}
+.row7{background-color: grey;}

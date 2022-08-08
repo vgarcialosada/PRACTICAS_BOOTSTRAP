@@ -21815,12 +21815,12 @@ textarea.form-control-lg {
   width: 100vw;
 }
 
-@media (min-width: 0px) and (max-width: 499.98px) {
+@media (max-width: 767.98px) {
   .container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
     background-color: violet;
   }
 }
-@media (min-width: 750px) and (max-width: 1249.98px) {
+@media (min-width: 992px) and (max-width: 1399.98px) {
   .container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
     background-color: green;
   }
