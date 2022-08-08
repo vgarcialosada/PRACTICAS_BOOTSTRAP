@@ -1,0 +1,17 @@
+.row div {
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  align-items: center;
+  height: 50px;
+  border: black 1px solid;
+  background-color: #deba89;
+}
+.row {
+  margin-bottom: 2.5%;
+}
+
+.container {
+  height: 100vh;
+  padding: 2%;
+}
