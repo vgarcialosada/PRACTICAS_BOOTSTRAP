@@ -1,0 +1,40 @@
+.row_cell {
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  align-items: center;
+  height: 50px;
+  border: black 1px solid;
+  background-color: #deba89;
+}
+
+#container1 {
+  background-color: grey;
+}
+#container2 .row{
+  margin-bottom: 0px;
+}
+.row1 {
+  background-color: yellow;
+  border: black 3px solid;
+
+}
+.row2 {
+  background-color: aqua;
+  border: red 3px solid;
+  align-items: center;
+}
+.row3,
+.row6 {
+  background-color: red;
+  border: black 3px solid;
+}
+.row4 {
+  background-color: grey;
+}
+.row5 {
+  background-color: blue;
+  border: yellow 3px solid;
+}
+
+
